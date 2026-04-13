@@ -10,17 +10,11 @@ Descreva aqui o problema escolhido.
 
 ---
 
-## 💡 Solução Proposta
-
-Explique sua ideia de forma clara.
-
----
-
-## 👤 Persona
+## 💡 Solução Proposta e 👤 Persona
 
 Resumo da persona criada.
 
-![Persona](./imagens/persona.png)
+![Persona](https://docs.google.com/document/d/1jiS0ZwLcgEfyp_YSvCdhX7WhyBPiV7KUg3o8PyXlroA/edit?tab=t.0#heading=h.6uz337plc4c6)
 
 ---
 
@@ -28,7 +22,7 @@ Resumo da persona criada.
 
 Descrição do fluxo.
 
-![Fluxo](./imagens/fluxo.png)
+![Fluxo](https://app.diagrams.net/#G1KNhfo-7vMerNn-AKuIE69YwA0a2smy74#%7B%22pageId%22%3A%22oYeFXp6eoQKuANaGauZy%22%7D)
 
 ---
 
@@ -36,7 +30,7 @@ Descrição do fluxo.
 
 Estrutura inicial das telas.
 
-![Wireframe](./imagens/wireframe1.png)
+![Wireframe](https://www.canva.com/design/DAHGGCZ8CkE/1TFyHUlrZLDeBA5EmceWzQ/edit)
 
 ---
 
@@ -52,20 +46,11 @@ Interface final do sistema.
 
 [Link do Figma](https://www.figma.com/make/OZSwxAggLM2aGjA8WPxuMV/%C3%81gua-J%C3%A1-platform-design?t=PlVwpfFyN2WdG1hE-20&fullscreen=1)
 
----
-
-## 📂 Documentação
-
-- [Problema](./docs/problema.pdf)
-- [Persona](./docs/persona.pdf)
-- [Fluxo](./docs/fluxo-usuario.pdf)
-- [Wireframes](./docs/wireframes.pdf)
-- [Protótipo](./docs/prototipo.pdf)
-
----
 
 ## 🚀 Considerações Finais
 
 - O que você aprendeu  
 - Dificuldades  
 - Melhorias futuras  
+
+Aprendi acerca da elaboração de wireframes, da construção de protótipos por meio do Figma, bem como da criação de personas e da definição de soluções propostas; minha maior dificuldade residiu na confecção do wireframe; como aprimoramento futuro, vislumbro torná-lo funcional, ultrapassando a condição de mero protótipo.
