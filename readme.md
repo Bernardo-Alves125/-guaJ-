@@ -50,7 +50,7 @@ Interface final do sistema.
 
 ## 🔗 Acesse o Protótipo
 
-[Link do Figma](colocar_link_aqui)
+[Link do Figma](https://www.figma.com/make/OZSwxAggLM2aGjA8WPxuMV/%C3%81gua-J%C3%A1-platform-design?t=PlVwpfFyN2WdG1hE-20&fullscreen=1)
 
 ---
 
